@@ -16,6 +16,10 @@ sudo git config --global core.editor vim
 
 sudo apt-get install python3-pip
 
+
+sudo apt-get install apt-file
+sudo apt-file update
+
 # git clone 
 #git clone https://jiangxumin@github.com/my-rds-store/my_space.git  $HOME/Documents/my_space 
 
