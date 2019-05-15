@@ -8,6 +8,8 @@ sudo apt-get update
 sudo apt-get install indicator-stickynotes 
 
 
+sudo apt-get install -y iftop
+
 sudo apt-get install -y vlc
 #vlc rtsp://184.72.239.149/vod/mp4://BigBuckBunny_175k.mov
 
