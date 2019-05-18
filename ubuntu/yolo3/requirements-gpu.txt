@@ -1,4 +1,16 @@
-tensorflow==1.9.0
+###############################
+#tensorflow==1.9.0
 #tensorflow-gpu==1.9.0
-keras==2.1.6
-opencv-python==3.4.3.18
+#keras==2.1.6
+###############################
+
+## cuda 10.0
+tensorflow-gpu==1.13.1
+keras==2.2.4
+opencv-python==3.4.3.18 
+#nympy==1.6.3 
+
+#Pillow==5.1.0
+#Pillow-PIL 
+#matplotlib==2.2.2  
+
