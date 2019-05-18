@@ -8,8 +8,11 @@ ubuntu 18.04 默认已安装
 #安装 peak-can 驱动
 
 https://www.peak-system.com/Support.55.0.html?&L=1
+https://www.peak-system.com/fileadmin/media/linux/index.htm
 
 ### ubuntu 18.04 desktop
+
+
 
 ```sh
 	wget https://www.peak-system.com/fileadmin/media/linux/files/peak-linux-driver-8.8.0.tar.gz
